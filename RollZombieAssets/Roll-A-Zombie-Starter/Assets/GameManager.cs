@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		SelectZombie (selectedZombie);
-		scoreText.text = "Score: " + score;
+//		scoreText.text = "Score: " + score;
 	}
 	
 	// Update is called once per frame
